@@ -59,7 +59,7 @@
 }
 
 .special_tabs.vertical:not(.icon) .tab-selector .label.current:before{
-	background: #111;
+	background: var(--theme);
 	opacity: 1;
 }
 .services-7-arrow{
