@@ -274,7 +274,7 @@ p.demo_store {
     margin-top: 0;
     padding: 0;
     font-size: 38px !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     letter-spacing: 0;
     border-bottom: 1px solid rgba(0,0,0,.1);
     padding-bottom: 20px;
@@ -597,7 +597,7 @@ p.demo_store {
   -webkit-border-radius: 3px !important;
   -moz-border-radius: 3px !important;
   border-radius: 3px !important;
-  font-family: Plus Jakarta Sans,Arial,'sans-serif';
+  font-family: Manrope,Arial,'sans-serif';
 }
 
 .woocommerce .products ul,.woocommerce ul.products,.woocommerce-page .products ul,.woocommerce-page ul.products {
@@ -629,7 +629,7 @@ p.demo_store {
   -webkit-border-radius: 0.25rem !important;
   -moz-border-radius: .25rem !important;
   border-radius: 0.25rem !important;
-  font-family: Plus Jakarta Sans,Arial,'sans-serif';
+  font-family: Manrope,Arial,'sans-serif';
 }
 
 .woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3 {
@@ -689,7 +689,7 @@ p.demo_store {
     font-weight: 600 !important;
     line-height: 1.625;
     color: #757575;
-    font-family: Plus Jakarta Sans_alt, arial, sans-serif;
+    font-family: Manrope_alt, arial, sans-serif;
     margin: 10px 0 0;
 }
 
@@ -792,7 +792,7 @@ p.demo_store {
     -ms-transition: linear .2s;
     -o-transition: linear .2s;
     transition: linear .2s;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -829,7 +829,7 @@ p.demo_store {
     -ms-transition: linear .2s;
     -o-transition: linear .2s;
     transition: linear .2s;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -1372,7 +1372,7 @@ table.variations .value{padding: 0 !important;}
     /* letter-spacing: 0; */
     /* font-size: 14px; */
     font-weight: 600;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     text-transform: unset !important;
     line-height: 1em;
     align-items: center;
@@ -3068,7 +3068,7 @@ ul.products .hentry a.product_type_simple.added {
     box-shadow: none;
     -webkit-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
-    font-family: Plus Jakarta Sans, Arial, 'sans-serif';
+    font-family: Manrope, Arial, 'sans-serif';
     text-align: center;
     margin: 20px auto;
     position: relative;
@@ -3815,7 +3815,7 @@ body.woocommerce .summary.entry-summary .cart .single_add_to_cart_button{
   background: #111;
   color:#fff !important; 
   border:none !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 600 !important;
   border-radius: 3px !important;
   -webkit-transition: linear .2s;
