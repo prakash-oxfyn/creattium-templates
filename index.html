@@ -906,7 +906,7 @@
 
 		.light .pine-header-button.only_button a,
 		.light .pine-header-button.only_special_button a {
-			border: 1px solid #010101;
+			/* border: 1px solid #010101; */
 			-webkit-border-radius: 50px;
 			-moz-border-radius: 50px;
 			-ms-border-radius: 50px;
@@ -916,7 +916,7 @@
 
 		.light .pine-header-button.only_button a:hover,
 		.light .pine-header-button.only_special_button a:hover {
-			border: 1px solid #010101;
+			/* border: 1px solid #010101; */
 			-webkit-border-radius: 50px;
 			-moz-border-radius: 50px;
 			-ms-border-radius: 50px;
@@ -928,7 +928,7 @@
 		.bold_design .light .pine-header-button.only_special_button a,
 		.elegant_design .light .pine-header-button.only_button a,
 		.elegant_design .light .pine-header-button.only_special_button a {
-			border: 2px solid #010101;
+			/* border: 2px solid #010101; */
 			-webkit-border-radius: 50px;
 			-moz-border-radius: 50px;
 			-ms-border-radius: 50px;
@@ -940,7 +940,7 @@
 		.bold_design .light .pine-header-button.only_special_button a:hover,
 		.elegant_design .light .pine-header-button.only_button a:hover,
 		.elegant_design .light .pine-header-button.only_special_button a:hover {
-			border: 2px solid #010101;
+			/* border: 2px solid #010101; */
 			-webkit-border-radius: 50px;
 			-moz-border-radius: 50px;
 			-ms-border-radius: 50px;
@@ -955,7 +955,7 @@
 			font-weight: normal !important;
 			font-size: 11px;
 			background: #transparent;
-			color: #cccccc;
+			color: #fff;
 			letter-spacing: 2px;
 		}
 
@@ -3481,6 +3481,7 @@
 			--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);
 			--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);
 			--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);
+			--theme: #ff1e00;
 		}
 
 		:where(body) {
@@ -3539,6 +3540,18 @@
 			padding-left: calc(1.333em + 2px);
 			text-decoration: none;
 			text-transform: inherit;
+		}
+
+		.theme-color {
+			color: var(--theme) !important;
+		}
+
+		.theme-text {
+			color: var(--theme) !important;
+		}
+
+		.theme-bg {
+			background: var(--theme) !important;
 		}
 
 		.has-black-color {
@@ -4188,10 +4201,10 @@
 					</div>
 
 
-					<div class="pine-header-button only_special_button ">
+					<div class="pine-header-button only_special_button">
 
 
-						<a href="#contact" class="nav-to">
+						<a href="#contact" class="nav-to theme-bg">
 
 							<span class="special_button_style_header" data-btn-animate="y">
 								<span class="btn-animate-y">
@@ -4319,7 +4332,7 @@
 														style="z-index: 99999;"><a
 															onmouseleave="this.style.borderColor='#111111'; this.style.backgroundColor='transparent'; this.style.color='#111111'"
 															onmouseenter="this.style.borderColor='#111111'; this.style.backgroundColor='#111111'; this.style.color='#ffffff';"
-															style="border-color:#111111; color:#111111;"
+															style="border-color:var(--theme) !important; color:#111111;"
 															class="vc_general vc_btn3 vc_btn3-size-xs vc_btn3-shape-round vc_btn3-style-outline-custom"
 															title="Contact 1">LET'S TALK</a></div>
 
@@ -4385,7 +4398,7 @@
 															class="ult-dual-heading-text ult-first-text ult-responsive"
 															data-ultimate-target='.ult-dual-color.ultv-9868 .ult-dual-heading-text'
 															data-responsive-json-new='{"font-size":"","line-height":""}'
-															style="color:#111111;     border:none; font-weight:normal;">OUR</span>
+															style="color:var(--theme);     border:none; font-weight:normal;">OUR</span>
 													</span><span class="ult-adv-heading" style="">
 														<span
 															class="ult-dual-adv-heading-text ult-highlight-text ult-responsive"
@@ -4946,7 +4959,7 @@
 													<div class="wpb_wrapper">
 														<h2 style="text-align: center"
 															class="vc_custom_heading vc_do_custom_heading wpb_animate_when_almost_visible wpb_charsAnimInLong-1 charsAnimInLong-1">
-															WHAT <b>WE </b> DO</h2>
+															WHAT <b class="theme-text">WE </b> DO</h2>
 													</div>
 												</div>
 											</div>
@@ -5277,7 +5290,7 @@
 															class="ult-dual-heading-text ult-first-text ult-responsive"
 															data-ultimate-target='.ult-dual-color.ultv-990 .ult-dual-heading-text'
 															data-responsive-json-new='{"font-size":"","line-height":""}'
-															style="color:#ffffff;     border:none; font-weight:normal;">WHY</span>
+															style="color:var(--theme);     border:none; font-weight:normal;">WHY</span>
 													</span><span class="ult-adv-heading" style="">
 														<span
 															class="ult-dual-adv-heading-text ult-highlight-text ult-responsive"
@@ -5464,7 +5477,7 @@
 																					<div class="align-icon"
 																						style="text-align:center;">
 																						<div class="aio-icon none "
-																							style="color:#010101;font-size:45px;display:inline-block;">
+																							style="color:var(--theme);font-size:45px;display:inline-block;">
 																							<i
 																								class="iconsreso-trophy"></i>
 																						</div>
@@ -5537,7 +5550,7 @@
 																					<div class="align-icon"
 																						style="text-align:center;">
 																						<div class="aio-icon none "
-																							style="color:#010101;font-size:45px;display:inline-block;">
+																							style="color:var(--theme);font-size:45px;display:inline-block;">
 																							<i
 																								class="iconsreso-laptop"></i>
 																						</div>
@@ -5610,7 +5623,7 @@
 																					<div class="align-icon"
 																						style="text-align:center;">
 																						<div class="aio-icon none "
-																							style="color:#010101;font-size:45px;display:inline-block;">
+																							style="color:var(--theme);font-size:45px;display:inline-block;">
 																							<i
 																								class="iconsreso-globe"></i>
 																						</div>
@@ -5682,7 +5695,7 @@
 																					<div class="align-icon"
 																						style="text-align:center;">
 																						<div class="aio-icon none "
-																							style="color:#010101;font-size:45px;display:inline-block;">
+																							style="color:var(--theme);font-size:45px;display:inline-block;">
 																							<i
 																								class="iconsreso-users"></i>
 																						</div>
@@ -5791,7 +5804,7 @@
 															class="ult-dual-heading-text ult-first-text ult-responsive"
 															data-ultimate-target='.ult-dual-color.ultv-7827 .ult-dual-heading-text'
 															data-responsive-json-new='{"font-size":"","line-height":""}'
-															style="color:#111111;     border:none; font-weight:normal;">CURRENT</span>
+															style="color:var(--theme);     border:none; font-weight:normal;">CURRENT</span>
 													</span><span class="ult-adv-heading" style="">
 														<span
 															class="ult-dual-adv-heading-text ult-highlight-text ult-responsive"
@@ -6139,7 +6152,7 @@
 																					class="ult-dual-heading-text ult-first-text ult-responsive"
 																					data-ultimate-target='.ult-dual-color.ultv-7204 .ult-dual-heading-text'
 																					data-responsive-json-new='{"font-size":"","line-height":""}'
-																					style="color:#111111;     border:none; font-weight:normal;">STUDIO</span>
+																					style="color:var(--theme);     border:none; font-weight:normal;">STUDIO</span>
 																			</span><span class="ult-adv-heading"
 																				style="">
 																				<span
@@ -6305,7 +6318,7 @@
 												<div class="vc_column-inner">
 													<div class="wpb_wrapper">
 														<h2 class="vc_custom_heading vc_do_custom_heading wpb_animate_when_almost_visible wpb_charsAnimInLong-1 charsAnimInLong-1"
-															style="color: #ffffff;text-align: center">Let's create
+															style="color: #ffffff;text-align: center">Let's <span class="theme-text">create</span>
 															something<br />players remember.</h2>
 													</div>
 												</div>
@@ -6347,7 +6360,7 @@
 										<div class="vc_btn3-container white-button vc_btn3-center vc_do_btn"><a
 												class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-round vc_btn3-style-custom"
 												href="mailto:hello@creattium.com"
-												style="background-color:#ffffff; color:#111111;"
+												style="background-color:var(--theme); color:#111111;"
 												title="Contact 1">CONTACT US</a></div>
 										<div style="text-align:center;color:#dddddd;margin-top:30px;line-height:1.8;">
 											<p style="margin:0;">📧 <a href="mailto:hello@creattium.com"
@@ -6418,7 +6431,7 @@
 								Production Partner</p>
 						</div>
 						<div class="footer_sidebar col-xs-12 col-md-4">
-							<h4>CONTACT</h4>
+							<h4 style="theme-text">CONTACT</h4>
 							<hr>
 							<div class="textwidget">
 								<p><a href="mailto:hello@creattium.com">hello@creattium.com</a></p>
@@ -6428,7 +6441,7 @@
 							</hr>
 						</div>
 						<div class="footer_sidebar col-xs-12 col-md-4">
-							<h4>QUICK LINKS</h4>
+							<h4 class="theme-text">QUICK LINKS</h4>
 							<hr />
 							<div class="menu-quick-links-container">
 								<ul class="menu" id="menu-quick-links">
