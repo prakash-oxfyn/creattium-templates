@@ -126,7 +126,7 @@
     text-align: right;
     color: #ECECEC;
     padding-top: 0;
-    font-family: Plus Jakarta Sans;
+    font-family: Manrope;
     position: relative;
     letter-spacing: 1px;
 }
@@ -1070,7 +1070,7 @@ h2.post-title a {
 .metas .tags a,.metas .category a {
     color: #333;
     font-size: 12px !important;
-    font-family: Plus Jakarta Sans,Arial,sans-serif;
+    font-family: Manrope,Arial,sans-serif;
     text-rendering: optimizelegibility;
     font-weight: 300;
 }
@@ -1271,7 +1271,7 @@ body.home.blog .page_content.right .post-listing article .the_title h2{
   font-weight: 700 !important;
   margin: 10px 0 15px !important;
   display: block;
-  font-family: Plus Jakarta Sans, Arial;
+  font-family: Manrope, Arial;
   line-height: 1.2em;
 }
 
@@ -1301,7 +1301,7 @@ body.search-results .master_container .page_content.sidebar{
     margin-bottom: 5px;
 display: none;}
 
-.metas-container p,.metas-container a {letter-spacing: 0;font-size: 11px !important;float: left;float: left;margin-left: 10px;font-family: 'Plus Jakarta Sans','Arial',sans-serif;margin-left: 0 !important;word-spacing: 0.1em;text-transform: uppercase;letter-spacing: 1px;}
+.metas-container p,.metas-container a {letter-spacing: 0;font-size: 11px !important;float: left;float: left;margin-left: 10px;font-family: 'Manrope','Arial',sans-serif;margin-left: 0 !important;word-spacing: 0.1em;text-transform: uppercase;letter-spacing: 1px;}
 
 .post-listing .metas-container p,
 .post-listing .metas-container a,
@@ -1313,7 +1313,7 @@ display: none;}
    float: left;
    float: left;
    margin-left: 10px;
-   font-family: 'Plus Jakarta Sans','Arial',sans-serif !important;
+   font-family: 'Manrope','Arial',sans-serif !important;
    margin-left: 0 !important;
    font-weight: 600 !important;
    margin-bottom: 5px !important;
@@ -1731,7 +1731,7 @@ img.litespeed-loaded{
 #pbd-alp-load-posts a {
     position: relative;
     color: #fff;
-    font-family: 'Plus Jakarta Sans','Arial',sans-serif !important;
+    font-family: 'Manrope','Arial',sans-serif !important;
     background-color: #5a24b1;
     border-width: 2px 2px 2px 2px;
     border-style: solid;
@@ -1845,7 +1845,7 @@ body:not(.page-template-blog-masonry-template):not(.page-template-blog-masonry-g
     /* padding: 8px 20px; */
     font-size: 15px !important;
     position: relative;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     margin-right: 4px;
     float: left;
     display: block;
@@ -2099,7 +2099,7 @@ article.comment {
     font-size: 13px;
     font-weight: 600;
     color: #444;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
 }
 
 .commentmetadata a:hover,.single .reply a:hover {
@@ -2147,7 +2147,7 @@ article.comment {
     border: 1px solid #E0E0E0;
 }
 
-#comments #commentform input[type="submit"],#comments #commentform input:focus[type="submit"] {font-family: Plus Jakarta Sans, Arial;letter-spacing: 0;padding: 10px 20px;line-height: 22px;}
+#comments #commentform input[type="submit"],#comments #commentform input:focus[type="submit"] {font-family: Manrope, Arial;letter-spacing: 0;padding: 10px 20px;line-height: 22px;}
 
 #comments #commentform .comment-form-comment label {
     float: none;
@@ -2193,7 +2193,7 @@ article.comment {
     border: 1px solid #e0ddda;
     margin-top: -10px;
 }
-.comment-form-cookies-consent label{font-size: 12px;font-weight: normal !important;text-transform: unset !important;font-family: Plus Jakarta Sans, Arial !important;letter-spacing: 0 !important;color: #848283 !important;}
+.comment-form-cookies-consent label{font-size: 12px;font-weight: normal !important;text-transform: unset !important;font-family: Manrope, Arial !important;letter-spacing: 0 !important;color: #848283 !important;}
 .metas-comments p,.metas-comments p a {
     font-weight: normal;
     font-size: 13px !important;
@@ -2509,7 +2509,7 @@ h3#comments-title,
     font-size: 13px;
     font-weight: 600;
     color: #444;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     padding-left: 15px;
 }
 
@@ -2539,7 +2539,7 @@ h3#comments-title,
     clear: both;
     /* font-weight: 700; */
     margin-bottom: 8px;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     /* color: #4b4748; */
     font-size: 14px;
 }
@@ -2562,7 +2562,7 @@ h3#comments-title,
     width: auto;
     display: inline-block;
     margin-top: 20px;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     border: 1px solid #121212;
 }
 .commentlist {
@@ -2814,7 +2814,7 @@ h2.post-title.simple-text {
     float: left;
     margin-right: 20px;
     margin-bottom: 5px !important;
-    font-family: Plus Jakarta Sans, Arial !important;
+    font-family: Manrope, Arial !important;
 }
 
 
@@ -2866,7 +2866,7 @@ h2.post-title.simple-text {
     letter-spacing: 1px;
     text-transform: uppercase;
     float: left;
-    font-family: 'Plus Jakarta Sans','Arial',sans-serif;
+    font-family: 'Manrope','Arial',sans-serif;
 }
 .search .result_type_tag{
   font-size: 12px !important;
@@ -2879,7 +2879,7 @@ h2.post-title.simple-text {
   width: auto;
   display: inline-block;
   line-height: 15px;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif', sans-serif;
+  font-family: 'Manrope', 'Arial', 'sans-serif', sans-serif;
   font-weight: 600 !important;
   text-transform: capitalize;
 }
@@ -2907,7 +2907,7 @@ body.blog .metas a:not(.the_author){
   margin-right: 5px;
   padding: 3px 8px;
   margin-bottom: 12px;
-  font-family: Plus Jakarta Sans, Arial;
+  font-family: Manrope, Arial;
 }
 
 
@@ -3210,7 +3210,7 @@ audio {
     line-height: 35px;
     margin: 0 10px;
     padding: 0;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif', sans-serif;
+    font-family: 'Manrope', 'Arial', 'sans-serif', sans-serif;
     font-weight: 500 !important;
     letter-spacing: 0;
     text-transform: unset;
@@ -3244,7 +3244,7 @@ audio {
     font-weight: 700 !important;
     text-transform: uppercase;
     padding: 14px 25px 11px !important;
-    font-family: 'Plus Jakarta Sans','Arial',sans-serif !important;
+    font-family: 'Manrope','Arial',sans-serif !important;
     border-radius: 25px;
 }
 
@@ -3312,7 +3312,7 @@ h2.secondaryTitle {
     box-shadow: none;
     -webkit-transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     transition: all 0.2s cubic-bezier(0.000, 0.000, 0.580, 1.000);
-    font-family: Plus Jakarta Sans, Arial, sans-serif;
+    font-family: Manrope, Arial, sans-serif;
     position: relative;
     top: 5px;
 }
@@ -3320,7 +3320,7 @@ h2.secondaryTitle {
   font-weight: 600 !important;
   font-size: 12px !important;
   background: #000;
-  font-family: Plus Jakarta Sans, Arial, sans-serif !important;
+  font-family: Manrope, Arial, sans-serif !important;
 }
 
 
@@ -3482,7 +3482,7 @@ article.post.category-quote .the_title, article.post.category-quote .metas-conta
 
 
 .nav-previous a,.nav-next a,.next-posts a,.prev-posts a {
-    font-family: 'Plus Jakarta Sans','Arial',sans-serif !important;
+    font-family: 'Manrope','Arial',sans-serif !important;
     font-weight: 600 !important;
     font-size: 12px !important;
     /* color: #111; */
@@ -3495,7 +3495,7 @@ article.post.category-quote .the_title, article.post.category-quote .metas-conta
     color: #fff;
     padding: 5px 15px;
     border: none;
-    font-family: 'Plus Jakarta Sans','Arial',sans-serif !important;
+    font-family: 'Manrope','Arial',sans-serif !important;
     font-weight: 700;
     font-size: 13px !important;
 }
@@ -3664,7 +3664,7 @@ article.post.category-quote .the_title, article.post.category-quote .metas-conta
   /* width: auto; */
   /* display: inline-block; */
   /* margin-top: 20px; */
-  font-family: Plus Jakarta Sans, Arial;
+  font-family: Manrope, Arial;
   /* border-radius: 0; */
   /* border: none; */
   /* text-transform: none; */
@@ -3708,7 +3708,7 @@ body.archive .blog-read-more:hover,
 .recentpostsvc a.blog-read-more:hover{
   /* background: #303030 !important; */
   /* color: #fff !important; */
-  /* font-family: Plus Jakarta Sans, Arial !important; */
+  /* font-family: Manrope, Arial !important; */
   /* font-weight: 700 !important; */
   opacity: 1;
 }
@@ -3770,7 +3770,7 @@ body .archive .blog-read-more:hover{
   display: none;
 }
 .comments-masonry span{
-  font-family: Plus Jakarta Sans, Arial;
+  font-family: Manrope, Arial;
 }
 .widget_title_span .rsswidget .rss-widget-icon{
   position: absolute;
@@ -4072,7 +4072,7 @@ body.home.blog .post-listing .metas-container{
   margin-top: 0px;
   text-transform: none;
   letter-spacing: 0;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 700;
   line-height: 1.4em;
   margin: 10px 0px 0;
@@ -4208,7 +4208,7 @@ body.single #commentform .form-submit #submit {
     background: rgba(0,0,0,0.9);
     border: none !important;
     font-weight: 500 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
     text-transform: uppercase !important;
     letter-spacing: 1px !important;
     padding: 14px 36px !important;

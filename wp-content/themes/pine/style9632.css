@@ -55,8 +55,8 @@ License URI:
    ============================== */
   
 :root{
-    --font-global: 'Plus Jakarta Sans', sans-serif;
-    --font-alt: 'Plus Jakarta Sans', sans-serif;
+    --font-global: 'Manrope', sans-serif;
+    --font-alt: 'Manrope', sans-serif;
     --gradient-primary-1: linear-gradient( 90deg, var(--color-primary-4) 0%, var(--color-primary-3) 33%, var(--color-primary-2) 67%, var(--color-primary-1) 100%);
     --gradient-primary-1-a: linear-gradient( 90deg, var(--color-primary-4) 25%, var(--color-primary-3) 40%, var(--color-primary-2) 60%, var(--color-primary-1) 75%);
     --gradient-primary-1-b: linear-gradient( 45deg, var(--color-primary-4) 0%, var(--color-primary-3) 33%, var(--color-primary-2) 67%, var(--color-primary-1) 100%);
@@ -291,7 +291,7 @@ a img.aligncenter {
     clip-path: unset !important;
     margin: 5px 0 0;
     font-weight: 500;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-weight: normal;
     display: none;
 }
@@ -347,7 +347,7 @@ html,body {
 }
 
 body {
-    font-family: Plus Jakarta Sans, Arial, sans-serif;
+    font-family: Manrope, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.718;
     color: #4e4d50;
@@ -359,7 +359,7 @@ body {
 form.pine_search_input.not-ready{ visibility: hidden; z-index: -1 !important; }
 
 p, li:not(.ticker li):not(.ult_tab_li):not(.top-bar-menu li), a:not(nav a), .aio-icon-description, .smile_icon_list li .icon_description p, .related_posts_listing .related_post .excerpt {
-    font-family: Plus Jakarta Sans,  Arial, sans-serif;
+    font-family: Manrope,  Arial, sans-serif;
     font-weight: normal;
     color: #4e4d50;
 }
@@ -429,7 +429,7 @@ mark {
     background: #000;
 }
 h1:not(.page_title), h2, h3:not(.ult-dual-color-heading h3):not(.info-circle-sub-def h3), h4, h5, h6 {
-    font-family: Plus Jakarta Sans, Arial, 'sans-serif';
+    font-family: Manrope, Arial, 'sans-serif';
     text-rendering: optimizelegibility;
     color: #010101;
     font-weight: 600;
@@ -500,7 +500,7 @@ p.vc_custom_heading.heading_border{
   color: #5a24b1;
   line-height: 1.3em !important;
   margin: 0.4em 0 0.4em !important;
-  font-family: Plus Jakarta Sans, Arial;
+  font-family: Manrope, Arial;
 }
 
 p.vc_custom_heading.heading_border::before{
@@ -1313,7 +1313,7 @@ section#home,.forcefullwidth_wrapper_tp_banner,.rev_slider_wrapper,.tp-revslider
 p.home-slide-content {
     font-size: 6em !important;
     text-transform: uppercase;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     font-weight: 800;
     letter-spacing: 0px;
     color: #fff;
@@ -1322,7 +1322,7 @@ p.home-slide-content {
 .big-text p.home-slide-content {
     font-size: 4.5em !important;
     text-transform: uppercase;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     font-weight: 800;
     letter-spacing: 0;
     color: #fff;
@@ -2402,7 +2402,7 @@ body .vc_tta.vc_tta-style-modern .vc_tta-panel-body, body
 .vc_btn3.vc_btn3-size-sm,
 .vc_btn3.vc_btn3-size-sx{
     font-weight: 500 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     -webkit-transition: all .2s linear;
     -moz-transition: all .2s linear;
     transition: all .2s linear;
@@ -2473,7 +2473,7 @@ body .vc_tta.vc_tta-style-modern .vc_tta-panel-body, body
     font-size: 14px !important;
     padding: 18px 37px !important;
     font-weight: 600 !important;
-    font-family: 'Plus Jakarta Sans','Arial','sans-serif';
+    font-family: 'Manrope','Arial','sans-serif';
     -webkit-transition: all .2s linear;
     -moz-transition: all .2s linear;
     transition: all .2s linear;
@@ -2584,7 +2584,7 @@ body .vc_tta.vc_tta-style-modern .vc_tta-panel-body, body
 
 .ult_tabmenu.style3>li.ult_tab_li a {
     padding: 9px 20px 8px 20px !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 15px;
     font-weight: 500;
     text-align: center;
@@ -2594,7 +2594,7 @@ body .vc_tta.vc_tta-style-modern .vc_tta-panel-body, body
     padding: 0 45px 30px !important;
 }
 .ult_tabmenu.style3>li.ult_tab_li a.icon_top_link {
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     line-height: 1 !important;
     text-align: center;
     letter-spacing: -0.02em;
@@ -2736,7 +2736,7 @@ body .vc_tta.vc_tta-style-modern .vc_tta-panel-body, body
 #secondary_footer h6 a{
     margin: 0 0 -2px !important;
     font-size: 19px !important;
-    font-family: 'Plus Jakarta Sans' !important;
+    font-family: 'Manrope' !important;
     font-weight: 600;
     color: #111;
 }
@@ -4276,7 +4276,7 @@ padding-left: 0;
     font-family: sans-serif;
     font-size: 11px;
     padding: 0 3px 0 0;
-    font-family: 'Plus Jakarta Sans, Arial', 'sans-serif';
+    font-family: 'Manrope, Arial', 'sans-serif';
     font-weight: 700;
 }
 
@@ -4627,7 +4627,7 @@ textarea {
 }
 .button-dark {
     border: none;
-    font-family: Plus Jakarta Sans;
+    font-family: Manrope;
     font-size: 12px !important;
     color: inherit;
     cursor: pointer;
@@ -4815,7 +4815,7 @@ div.wpcf7 img.ajax-loader {
   /* font-weight: 600 !important; */
   /* text-transform: uppercase; */
   /* padding: 16px 38px 14px !important; */
-  /* font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important; */
+  /* font-family: 'Manrope', 'Arial', 'sans-serif' !important; */
   background: #010101 !important;
   /* color: #fff !important; */
   border: none;
@@ -4850,7 +4850,7 @@ body .bt-contact input{
     text-transform: uppercase;
     padding: 0 !important;
     line-height: 1;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
     background: transparent;
     border: none;
     z-index: 999;
@@ -5070,13 +5070,13 @@ body .bt-contact input{
     float: left;
     width: 100%;
     z-index: 10;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 18px;
     font-weight: 500;
     color: #010101;
 }
 .wpcf7 form.wpcf7-form p a{
-  font-family: Plus Jakarta Sans, Arial !important;
+  font-family: Manrope, Arial !important;
   font-weight: normal !important;
   font-size: 15px !important;
 }
@@ -5181,7 +5181,7 @@ body .bt-contact input{
     text-transform: uppercase;
     letter-spacing: .065em;
     padding: 14px 30px 12px !important;
-    font-family: 'Plus Jakarta Sans','Arial','sans-serif' !important;
+    font-family: 'Manrope','Arial','sans-serif' !important;
     -webkit-appearance: unset;
     border-style: unset;
     border: 2px solid #111;
@@ -5793,7 +5793,7 @@ div.fullwidth-container{background-size: cover !important;}
     width: 100%;
     margin-bottom: 0px;
     font-size: 14px;
-    font-family:  'Plus Jakarta Sans, Arial', 'sans-serif';
+    font-family:  'Manrope, Arial', 'sans-serif';
     font-weight: 600;
     color: #222025;
     letter-spacing: 2px !important;
@@ -7104,7 +7104,7 @@ header.style2 .search_input {
     line-height: 1.6em;
     font-weight: 600;
     color: #f1f0f0;
-      font-family: Plus Jakarta Sans;
+      font-family: Manrope;
     letter-spacing: 0px;
     margin: 0;
 }
@@ -8115,7 +8115,7 @@ a.team-profile img{padding-top: 30px;}
     color: #36383a !important;
     font-weight: normal !important;
     margin: 0;
-    font-family: 'Plus Jakarta Sans, Arial';
+    font-family: 'Manrope, Arial';
 }
 
 /***************************************************************
@@ -8811,7 +8811,7 @@ body .social-icons-fa a:hover:before {
     left: 0;
     border-radius: 3px !important;
     max-width: 100%;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     color: rgba(255,255,255, .7);
     background: transparent !important;
     border: 2px solid rgba(255,255,255, .2);
@@ -8896,7 +8896,7 @@ body .social-icons-fa a:hover:before {
     border: 1px solid #dddddd;
     background: transparent;
     border-radius: 0;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     font-weight: normal;
     color: #2b2929;
 }
@@ -8912,7 +8912,7 @@ body .footer_newsletter form input.email {
     background: #fff;
     float: left;
     text-shadow: none;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     margin-bottom: 0px !important;
     font-size: 14px;
     background-color: #fff !important;
@@ -9216,7 +9216,7 @@ a#send-comment:hover {
    /* display: inline-block; */
    background: transparent;
    margin-top: 20px;
-   font-family: Plus Jakarta Sans, Arial;
+   font-family: Manrope, Arial;
    text-transform: uppercase;
    /* line-height: 30px !important; */
    border-radius: 3px !important;
@@ -9343,7 +9343,7 @@ html body container #mc_embed_signup input#mc-embedded-subscribe:hover{opacity: 
 }
 
 .errorbutton {
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif', sans-serif;
+    font-family: 'Manrope', 'Arial', 'sans-serif', sans-serif;
     font-weight: 500 !important;
     border-radius: 50px !important;
     font-size: 13px;
@@ -9649,7 +9649,7 @@ a.aio-icon-read {
   letter-spacing: 1px;
   margin-top: 20px;
   text-transform: uppercase;
-  font-family: Plus Jakarta Sans, Arial, sans-serif !important;
+  font-family: Manrope, Arial, sans-serif !important;
   color: #010101;
   display: inline-block;
   padding: 0;
@@ -9667,7 +9667,7 @@ a.aio-icon-read {
     font-weight: 800 !important;
     width: auto;
     display: inline-block;
-    font-family: Plus Jakarta Sans, Plus Jakarta Sans, Arial;
+    font-family: Manrope, Manrope, Arial;
 }
 
 /* .page-template-blog-masonry-template a.aio-icon-read:hover, .page-template-blog-masonry-grid-template a.aio-icon-read:hover {
@@ -9740,7 +9740,7 @@ a.ubtn-link {
 }
 .ult_cl_link_1 span, .ult_crlink span {
     letter-spacing: 1px !important;
-    font-family: Plus Jakarta Sans, Arial, sans-serif !important;
+    font-family: Manrope, Arial, sans-serif !important;
     color: #010101;
 }
 .ult_cl_link_5 span{
@@ -9800,7 +9800,7 @@ html body .ifb-flip-box-section.ifb-flip-box-section-vertical-middle.ifb_disable
     display: block !important;
 }
 html body .flip-box-wrap .flip_link a{
-  font-family:  Plus Jakarta Sans, Arial;
+  font-family:  Manrope, Arial;
   font-weight: 600;
   letter-spacing: normal;
   border-radius: 25px !important;
@@ -10131,7 +10131,7 @@ body#boxed_layout {
 
 .rev-btn:not[.VideoControls-Play] {
     padding: 14px 22px !important;
-    font-family: 'Plus Jakarta Sans, Arial',sans-serif !important;
+    font-family: 'Manrope, Arial',sans-serif !important;
     font-weight: 700 !important;
     font-size: 13px !important;
     letter-spacing: 0px !important;
@@ -10140,9 +10140,9 @@ body#boxed_layout {
 .vc_btn3.vc_btn3-size-lg {
     padding: 18px 41px!important;
     font-size: 15px !important;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     font-weight: 600 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     padding: 15px 25px 15px!important;
     font-size: 15px !important;
 }
@@ -10156,7 +10156,7 @@ body#boxed_layout {
 .vc_btn3.vc_btn3-size-xs {
     padding: 10px 20px !important;
     font-size: 12px !important;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
 }
 
 .vc_btn3.vc_btn3-size-sm.vc_btn3-icon-right {
@@ -10203,7 +10203,7 @@ body#boxed_layout {
 .top-icon .aio-icon-header h3.aio-icon-title {
     margin: 5px 0 15px !important;
     font-weight: 500;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 22px;
     letter-spacing: 1px;
 }
@@ -10272,7 +10272,7 @@ body#boxed_layout {
     text-transform: unset !important;
     /* text-align: center; */
     margin: 25px 0 0px 0 !important;
-    font-family: Plus Jakarta Sans, Arial, 'sans-serif';
+    font-family: Manrope, Arial, 'sans-serif';
 }
 .vc_btn3.vc_btn3-style-custom {
     background-image: none !important;
@@ -10526,7 +10526,7 @@ body#boxed_layout {
     font-size: 14px !important;
     line-height: 1.4em !important;
     margin-left: 2px;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
 }
 .aio-icon-description li {
 	margin-left: 20px;
@@ -10744,7 +10744,7 @@ html .testimonials-style2:not(.single-wide-testimonials) .t-author .company_valu
   background: #010101 !important;
   -webkit-border-radius: 3px !important;
   border-radius: 3px !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 600 !important;
 }
 
@@ -10758,7 +10758,7 @@ html .testimonials-style2:not(.single-wide-testimonials) .t-author .company_valu
 
 .ult_design_1 .ult_pricing_table .ult_price_link .ult_price_action_button:hover{
   /* background: #000 !important; */
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 600;
 }
 .fancy_design .ult_design_1 .ult_pricing_table .ult_price_link .ult_price_action_button:hover{
@@ -10766,7 +10766,7 @@ html .testimonials-style2:not(.single-wide-testimonials) .t-author .company_valu
   font-weight: 600 !important;
 }
 .ult_design_1 .ult_pricing_table .ult_price_body .ult_price .ult_price_figure{
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 600;
   position: relative;
 }
@@ -10783,7 +10783,7 @@ html .testimonials-style2:not(.single-wide-testimonials) .t-author .company_valu
     /* margin-left: -25px; */
     font-weight: 500;
     font-family: Arial;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
     font-weight: 600;
 }
 
@@ -10919,7 +10919,7 @@ button.ubtn-normal.ubtn-sep-icon-at-right .ubtn-icon,
 }
 .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-title.vc_tta-controls-icon-position-left > a span, body .vc_tta.vc_general .vc_tta-panel-title.vc_tta-controls-icon-position-left > a span{
   font-weight: 600 !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-size: 17px;
   color: #010101;
   line-height: 1.3em;
@@ -11217,7 +11217,7 @@ button.ubtn-normal.ubtn-sep-icon-at-right .ubtn-icon,
 .vc_general.vc_btn3 {
     letter-spacing: 0.085em;
     font-weight: 700 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     /* border: none !important; */
 }
 
@@ -11279,7 +11279,7 @@ button.ubtn-normal.ubtn-sep-icon-at-right .ubtn-icon,
 /* BT WHITE */
 .des-button-white {
     border: none;
-    font-family: Plus Jakarta Sans, Arial;
+    font-family: Manrope, Arial;
     font-size: 12px !important;
     color: inherit;
     cursor: pointer;
@@ -11352,7 +11352,7 @@ button.ubtn-normal.ubtn-sep-icon-at-right .ubtn-icon,
     text-transform: uppercase;
     padding: 10px 18px !important;
     margin-top:20px;
-    /* font-family:  'Plus Jakarta Sans, Arial', 'sans-serif'; */
+    /* font-family:  'Manrope, Arial', 'sans-serif'; */
 }
 /* BT DARK */
 .des-button-dark {
@@ -11412,7 +11412,7 @@ body .button-dark:hover {
 /* BT COLORED */
 .des-button-color {
     border: none;
-    font-family: 'Plus Jakarta Sans, Arial', 'sans-serif';
+    font-family: 'Manrope, Arial', 'sans-serif';
     font-size: 12px !important;
     color: inherit;
     cursor: pointer;
@@ -11686,7 +11686,7 @@ header.style6 .pine_right_header_icons{margin-right: -10px !important;top: -15px
 }
 .gradient_design #mc_embed_signup input#mc-embedded-subscribe, 
 .gradient_design #mc_embed_signup input#mc-embedded-subscribe:focus{
-  font-family: 'Plus Jakarta Sans';
+  font-family: 'Manrope';
   font-weight: 500;
   text-transform: unset;
   font-size: 19px !important;
@@ -11722,7 +11722,7 @@ header.style6 .pine_right_header_icons{margin-right: -10px !important;top: -15px
 .gradient_design .bt-contact input {
     padding: 15px 36px !important;
     font-size: 16px !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
     text-transform: unset;
     font-weight: 500 !important;
     letter-spacing: 0;
@@ -12079,7 +12079,7 @@ h3.ult_modal-title {
     box-shadow: none !important;
     border: none !important;
     font-weight: 500 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     letter-spacing: 0;
 }
 
@@ -12417,7 +12417,7 @@ body #main header.none-transition,.none-transition {
     -moz-transition: none !important;
 }
 
-a#send-comment {padding: 9px 19px;letter-spacing: 0px;font-weight: 600 !important;font-size: 12px !important;color: #f1f1f1 !important;width: auto !important;display: inline-block;background: #d4aaa2;margin-top: 10px;font-family: Plus Jakarta Sans, Plus Jakarta Sans, Arial;text-transform: uppercase;line-height: 1.5em;border-radius: 0;}
+a#send-comment {padding: 9px 19px;letter-spacing: 0px;font-weight: 600 !important;font-size: 12px !important;color: #f1f1f1 !important;width: auto !important;display: inline-block;background: #d4aaa2;margin-top: 10px;font-family: Manrope, Manrope, Arial;text-transform: uppercase;line-height: 1.5em;border-radius: 0;}
 
 #pine-push-sidebar-content a#send-comment{
   background: #fff !important;
@@ -12989,7 +12989,7 @@ header.navbar-default.pine-underlining .navbar-nav > li:hover:before,
   top: 0;
   font-size: 11px;
   color: #f2f2f2 !important;
-  font-family:  'Plus Jakarta Sans, Arial', 'sans-serif';
+  font-family:  'Manrope, Arial', 'sans-serif';
   font-weight: 500;
   font-size: 12px !important;
   letter-spacing: 0px !important;
@@ -13128,7 +13128,7 @@ div.wpcf7 input[type="file"] {
     text-align: left;
     width: 100%;
     margin-bottom: 0px;
-    font-family:  'Plus Jakarta Sans, Arial', 'sans-serif';
+    font-family:  'Manrope, Arial', 'sans-serif';
     font-weight: 700;
     color: #222025;
     font-size: 15px;
@@ -13326,7 +13326,7 @@ html body .widget-newsletter #mc_embed_signup input#mc-embedded-subscribe:focus 
     /* width: auto; */
     /* display: inline-block; */
     /* margin-top: 10px; */
-    /* font-family: Plus Jakarta Sans, Plus Jakarta Sans, Arial; */
+    /* font-family: Manrope, Manrope, Arial; */
     /* border-radius: 0px; */
     /* background: #d4aaa2; */
     /* border-radius: 0px !important; */
@@ -18700,7 +18700,7 @@ body .brutalist_design .portfolio-details a{
     body .inlinemodal-with-button .ult-modal-input-wrapper button.ult-align-center{
         font-size: 12px !important;
         font-weight: 600 !important;
-        font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+        font-family: 'Manrope', 'Arial', 'sans-serif';
     }
     body .vc_btn3.vc_btn3-size-md{
         padding: 16px 30px !important;
@@ -21269,7 +21269,7 @@ _:-ms-lang(x), _:-webkit-full-screen, .ifb-flip-box-section-vertical-middle{
 
     #ultimate-heading-38665745dc690b2a4 h2 {
         font-size: 20px !important;
-        font-family: 'Plus Jakarta Sans' !important;
+        font-family: 'Manrope' !important;
         font-weight: 400 !important;
         color: #f2f2f2 !important;
     }
@@ -21426,7 +21426,7 @@ body.page-template-template-side-nav .master_container > .page_content > .contai
 .treethemes-onepage-navigation li a{position: absolute;top: 0;right:0;bottom: 0;left:0;-webkit-border-radius:100%;-moz-border-radius:100%;-ms-border-radius:100%;-o-border-radius:100%;4border-radiu1s:100%;}
 .treethemes-onepage-navigation li a.treethemes-active{background: #333;}
 .treethemes-onepage-navigation li span.pag-title-wrap{position: absolute;width:200px;min-height: 1.5em;height:100%;right: 13px;overflow:hidden;text-transform: capitalize;top: -5px;}
-.treethemes-onepage-navigation li span.pag-title{position: absolute;top: -2px;opacity: 0;text-align: right;width: 200px;right: -200px;-webkit-transition: all .5s ease;-moz-transition: all .5s ease;-ms-transition: all .5s ease;-o-transition: all .5s ease;transition: all .5s ease;color: rgba(0,0,0,0.3);font-weight: bold;-webkit-backface-visibility: hidden;-webkit-transform: translateZ(0) scale(1.0, 1.0);-moz-backface-visibility: hidden;-moz-transform: translateZ(0) scale(1.0, 1.0);-ms-backface-visibility: hidden;-ms-transform: translateZ(0) scale(1.0, 1.0);-o-backface-visibility: hidden;-o-transform: translateZ(0) scale(1.0, 1.0)1;backface-visibility: hidden;transform: translateZ(0) scale(1.0, 1.0);cursor: default;font-weight: 600;text-transform: capitalize;font-family: Plus Jakarta Sans, Plus Jakarta Sans, Arial;text-transform: uppercase !important;letter-spacing: 0px !important;font-size: 13px !important;}
+.treethemes-onepage-navigation li span.pag-title{position: absolute;top: -2px;opacity: 0;text-align: right;width: 200px;right: -200px;-webkit-transition: all .5s ease;-moz-transition: all .5s ease;-ms-transition: all .5s ease;-o-transition: all .5s ease;transition: all .5s ease;color: rgba(0,0,0,0.3);font-weight: bold;-webkit-backface-visibility: hidden;-webkit-transform: translateZ(0) scale(1.0, 1.0);-moz-backface-visibility: hidden;-moz-transform: translateZ(0) scale(1.0, 1.0);-ms-backface-visibility: hidden;-ms-transform: translateZ(0) scale(1.0, 1.0);-o-backface-visibility: hidden;-o-transform: translateZ(0) scale(1.0, 1.0)1;backface-visibility: hidden;transform: translateZ(0) scale(1.0, 1.0);cursor: default;font-weight: 600;text-transform: capitalize;font-family: Manrope, Manrope, Arial;text-transform: uppercase !important;letter-spacing: 0px !important;font-size: 13px !important;}
 .treethemes-onepage-navigation li:hover span.pag-title{right:13px;opacity: 1;color: #0a0a26;font-size: 16px;text-transform: unset;letter-spacing: 0px;}
 .cbp-l-filters-dropdown {max-width: 100%;}
 
@@ -21804,7 +21804,7 @@ header.headerclone .hamburguer-trigger-menu-icon{display: none !important;visibi
   font-weight: 700 !important;
   text-transform: uppercase;
   padding: 11px 18px !important;
-  font-family:  'Plus Jakarta Sans, Arial', 'sans-serif';
+  font-family:  'Manrope, Arial', 'sans-serif';
   border: 1px solid #2b2929;
   color: #fff !important;
   background-color: #2b2929 !important;
@@ -22621,7 +22621,7 @@ body .vc_tta-panel.vc_active .vc_tta-panel-body{
 }
 
 .navbar-collapse > ul > li > a, .navbar-collapse .menu_style2_bearer > ul > li > a {
-    font-family:  'Plus Jakarta Sans, Arial', 'sans-serif', sans-serif;
+    font-family:  'Manrope, Arial', 'sans-serif', sans-serif;
     font-weight: normal;
     font-size: 11px;
     color: #e0e0e0;
@@ -22719,7 +22719,7 @@ span.wpcf7-not-valid-tip {
 .wpcf7 form.wpcf7-form .pine-multiple-fields div.simple-text-left p{
  font-size: 14px;
  color: #757575;
- font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+ font-family: 'Manrope', 'Arial', 'sans-serif';
 }
 
 
@@ -22937,7 +22937,7 @@ header.style4 .nav-container .navbar-header .navbar-brand {
 
 .stats-block .stats-number {
     font-weight: 600 !important;
-    font-family: Plus Jakarta Sans, Arial, sans-serif;
+    font-family: Manrope, Arial, sans-serif;
 }
 
 .ult-carousel-wrapper {
@@ -23179,7 +23179,7 @@ body .ult-style-3 .ult-team-member-position {
     text-decoration: none;
     letter-spacing: 1px;
     opacity: .72;
-    font-family: Plus Jakarta Sans, Arial, sans-serif;
+    font-family: Manrope, Arial, sans-serif;
     font-weight: 600;
     transition: all 0.17s cubic-bezier(0.000, 0.000, 0.580, 1.000);
 }
@@ -23237,7 +23237,7 @@ body .ult-style-3 .ult-team-member-position {
 }
 .blog-read-more{
   margin-top: 15px;
-  font-family: Plus Jakarta Sans, Arial, sans-serif;
+  font-family: Manrope, Arial, sans-serif;
   font-weight: 600;
 }
 .ult_link_btm3{display: none;}
@@ -23491,7 +23491,7 @@ body .widget.pine_socials_widget .social-icons-fa a:hover{
     margin: 20px 0 0;
     font-size: 15px;
     letter-spacing: 0.5px;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     position: relative;
     left: 3px;
 }
@@ -23529,7 +23529,7 @@ body .widget.pine_socials_widget .social-icons-fa a:hover{
   border-radius: 3px !important;
   padding: 0.4rem 1rem 0.4rem 1rem;
   display: inline-block;
-  font-family: Plus Jakarta Sans, Arial, 'sans-serif';
+  font-family: Manrope, Arial, 'sans-serif';
   font-weight: 400;
 } */
 
@@ -23541,7 +23541,7 @@ body .widget.pine_socials_widget .social-icons-fa a:hover{
   border-radius: 3px !important;
   padding: 0.2rem 1rem 0.3rem 1rem;
   display: table;
-  font-family: Plus Jakarta Sans, Arial, 'sans-serif' !important;
+  font-family: Manrope, Arial, 'sans-serif' !important;
   font-weight: 400 !important;
   letter-spacing: -0.04em !important;
   text-align: center;
@@ -24366,7 +24366,7 @@ body:not(.home):not(.page-template-template-home) .products .scaleOutIn img {
 
 /* .ultimate-typed-main,
 .mycustfancy{
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+  font-family: 'Manrope', 'Arial', 'sans-serif' !important;
   font-weight: 600 !important;
 } */
 .rev-btn i.fa-play{
@@ -24746,7 +24746,7 @@ body:not(.home):not(.page-template-template-home) .products .scaleOutIn img {
     font-weight: 600 !important;
     text-transform: uppercase;
     padding: 16px 35px 15px !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+    font-family: 'Manrope', 'Arial', 'sans-serif' !important;
 }
 
 .vc_mobile .wpb_animate_when_almost_visible.linesAnimIn .word {
@@ -26397,13 +26397,13 @@ height: 54px;
 }
 .slick_design .bt-contact .button input{
   font-size: 17px !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 500 !important;
   letter-spacing: 0;
   text-transform: unset !important;
 }
 .slick_design .wpcf7 form.wpcf7-form p:not(.small-text-info-icon p) {
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 18px;
     font-weight: 700;
     color: #343d55;
@@ -28844,7 +28844,7 @@ body .brutalist_style.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_ac
 .slick_design #mc_embed_signup input#mc-embedded-subscribe,
 .slick_design #mc_embed_signup input#mc-embedded-subscribe:focus{
   font-size: 17px !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+  font-family: 'Manrope', 'Arial', 'sans-serif';
   font-weight: 600 !important;
   letter-spacing: 0;
   text-transform: unset !important;
@@ -29408,7 +29408,7 @@ body .light-content .vc_tta-style-classic .vc_tta-panel:last-child .vc_tta-panel
     letter-spacing: normal;
     margin-top: 2px;
     text-transform: unset;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-weight: 500;
     color: #010101;
     display: inline-block;
@@ -29699,7 +29699,7 @@ body .corporate_design .recentpostsvc .excerpt p {
 .slick_design .vc_btn3{
     letter-spacing: 0 !important;
     font-weight: 600 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 16px !important;
 }
 .slick_design header.navbar-default.pine-underlining .navbar-nav > li:before {
@@ -30076,7 +30076,7 @@ body .corporate_design .recentpostsvc .excerpt p {
 
 .gradient_design a.aio-icon-read {
   font-weight: 500 !important;
-  font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif' !important;
+  font-family: 'Manrope', 'Arial', 'sans-serif' !important;
   font-size: 15px !important;
   letter-spacing: 0;
   margin-top: 10px;
@@ -31926,7 +31926,7 @@ body.single-product header.navbar {
 }
 body .vc_tta.vc_general .vc_tta-panel-title.vc_tta-controls-icon-position-left a span.vc_tta-title-text{
     font-weight: 600 !important;
-    font-family: 'Plus Jakarta Sans', 'Arial', 'sans-serif';
+    font-family: 'Manrope', 'Arial', 'sans-serif';
     font-size: 17px;
     color: #010101;
     line-height: 1.3em;
