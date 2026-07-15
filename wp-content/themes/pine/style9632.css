@@ -80,6 +80,7 @@ License URI:
     --ease-out-short: cubic-bezier(.15,.7,.78,1);
     --ease-elastic-1: cubic-bezier(0.68,-0.55,0.27,1.55);
     --ease-elastic-2: cubic-bezier(0.68,-3,0.27,5);
+    --theme: #ff1e00;
     
 }
 
@@ -5481,7 +5482,7 @@ div.fullwidth-container{background-size: cover !important;}
   margin-left: 0;
   width: 45px;
   height: 45px;
-  background: #f9f3ff !important;
+  background: var(--theme);
   border-radius: 100%;
   line-height: 45px;
 }
